@@ -1,0 +1,7 @@
+landingpage=https://justpremium.com
+buyer="Calvin Klein"
+advertiser="Just Premium"
+tier1="Style & Fashion"
+tier2="Fashion"
+country=Netherlands
+dsp=
