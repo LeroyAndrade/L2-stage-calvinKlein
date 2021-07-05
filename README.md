@@ -1,4 +1,4 @@
-# L2-stage-calvinKlein
+Internship # L2-stage-calvinKlein
 Reclame voor Calvin Klein
 
 Senior lead developer feedback:
