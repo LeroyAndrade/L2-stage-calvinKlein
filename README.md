@@ -2,7 +2,7 @@ Internship # L2-stage-calvinKlein
 Reclame voor Calvin Klein
 
 Senior lead developer feedback:
-https://github.com/LeroyAndrade/L2-stage-calvinKlein/blob/main/CalvinKlein%20Feedback-from-senior-developer.rtf
+https://github.com/LeroyAndrade/L2-stage-calvinKlein/blob/82de832d4a44c641a501011b05a8edbe5622aca0/CalvinKlein%20Feedback-from-senior-developer.rtf#L14
 
 # Demo offline -> video:
 ## url: https://www.youtube.com/watch?v=IbB6y8viv2c&feature=youtu.be
